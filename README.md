@@ -1,9 +1,9 @@
 # Shale
-Shale is a beautiful, minimal theme for the Fish shell. It is based on [clearance](https://github.com/oh-my-fish/theme-clearance)
+Shale is a beautiful, minimal theme for the Fish shell. It is based on [clearance](https://github.com/oh-my-fish/theme-clearance).
 
 ![](screenshot.png)
 
-**Pictured in screenshot: iTerm2 with the Spacegray theme**
+**Pictured in screenshot -> iTerm2 with the Spacegray theme, font is Iosevka Term**
 
 ## Installation
 ### Using fisher
