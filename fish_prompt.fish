@@ -1,6 +1,6 @@
-# name: clearance
+# name: shale
 # ---------------
-# Based on idan. Display the following bits on the left:
+# Based on clearance. Display the following bits on the left:
 # - Virtualenv name (if applicable, see https://github.com/adambrenecki/virtualfish)
 # - Current directory name
 # - Git branch and dirty state (if inside a git repo)
